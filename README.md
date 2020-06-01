@@ -1,1 +1,1 @@
-Welcome to my life!
+<title> Welcome to my life! </title>
